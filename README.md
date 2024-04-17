@@ -76,3 +76,4 @@ You are so welcome to report issues, help out with contributions or whatever you
 ## 📜 Changelog
 
 Refer to [Releases](https://github.com/khang-nd/7.css/releases).
+Refer to [Releases](https://khang-nd.github.io/7.css/).
